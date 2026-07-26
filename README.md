@@ -12,6 +12,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Adhiraj2601/Leet_coding/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhiraj2601/Leet_coding/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -20,6 +21,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Adhiraj2601/Leet_coding/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Hash Table
 |  |
 | ------- |
