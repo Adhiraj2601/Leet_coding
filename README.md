@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Adhiraj2601/Leet_coding/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Adhiraj2601/Leet_coding/tree/master/0704-binary-search) |
@@ -44,6 +45,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Adhiraj2601/Leet_coding/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0852-peak-index-in-a-mountain-array) |
