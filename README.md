@@ -20,6 +20,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Adhiraj2601/Leet_coding/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
