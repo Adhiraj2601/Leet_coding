@@ -4,6 +4,5 @@ class Solution:
         heapq.heapify(max_heap)
         for i in range(k):
             res = -heapq.heappop(max_heap)
-
         return res
         
