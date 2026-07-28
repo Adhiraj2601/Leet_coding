@@ -1,4 +1,16 @@
 class Solution:
-    def findKthLargest(self, nums: List[int], k: int) -> int:
-        return heapq.nlargest(k, nums)[-1]
+  def findKthLargest(self, nums: List[int], k: int) -> int:
+    pivot = random.choice(nums)
+    left = [x for x in nums if x > pivot]
+    middle = [x for x in nums if x == pivot]
+    right = [x for x in nums if x < pivot]
+
+    L, M = len(left), len(middle)
+
+    if k <= L:
+      return self.findKthLargest(left, k)
+    elif k <= L + M:
+      return pivot
+    else:
+      return self.findKthLargest(right, k - L - M)
         
