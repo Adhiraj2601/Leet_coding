@@ -9,8 +9,7 @@ class Solution:
         if l%2==0:
             res+=res[::-1]
         else:
-            res+=s[mid]
-            res+=res[:mid][::-1]
+            res+=(s[mid]+res[:mid][::-1])
         return res
 
         
