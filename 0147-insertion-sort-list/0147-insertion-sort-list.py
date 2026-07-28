@@ -17,10 +17,9 @@ class Solution:
 
         vals.sort()
 
-        dummy = ListNode(0)
-        curr = dummy
+        curr = head
         for val in vals:
-            curr.next = ListNode(val)
+            curr.val = val
             curr = curr.next
 
-        return dummy.next
+        return head
