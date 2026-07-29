@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -151,4 +152,20 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
+## Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
