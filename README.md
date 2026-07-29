@@ -10,6 +10,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adhiraj2601/Leet_coding/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/Adhiraj2601/Leet_coding/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhiraj2601/Leet_coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Adhiraj2601/Leet_coding/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
