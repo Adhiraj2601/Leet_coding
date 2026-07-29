@@ -43,6 +43,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Adhiraj2601/Leet_coding/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhiraj2601/Leet_coding/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3625-count-number-of-trapezoids-ii) |
