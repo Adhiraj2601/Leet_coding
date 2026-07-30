@@ -61,6 +61,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adhiraj2601/Leet_coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhiraj2601/Leet_coding/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -71,6 +72,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -107,6 +109,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adhiraj2601/Leet_coding/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
 |  |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,4 +222,12 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adhiraj2601/Leet_coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
