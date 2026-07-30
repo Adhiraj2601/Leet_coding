@@ -10,6 +10,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Adhiraj2601/Leet_coding/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adhiraj2601/Leet_coding/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Adhiraj2601/Leet_coding/tree/master/1925-count-square-sum-triples) |
@@ -52,6 +53,7 @@
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/Adhiraj2601/Leet_coding/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhiraj2601/Leet_coding/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -166,6 +168,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adhiraj2601/Leet_coding/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3625-count-number-of-trapezoids-ii) |
