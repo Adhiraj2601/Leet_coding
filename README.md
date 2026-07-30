@@ -59,6 +59,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Adhiraj2601/Leet_coding/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adhiraj2601/Leet_coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -87,6 +88,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
+| [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -186,6 +188,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhiraj2601/Leet_coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
