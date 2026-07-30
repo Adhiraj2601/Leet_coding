@@ -72,6 +72,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -116,6 +117,7 @@
 | [0704-binary-search](https://github.com/Adhiraj2601/Leet_coding/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3453-separate-squares-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 |  |
