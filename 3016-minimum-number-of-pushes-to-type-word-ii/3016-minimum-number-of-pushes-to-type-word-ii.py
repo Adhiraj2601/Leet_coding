@@ -1,22 +1,11 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        freq = {}
-        count = 0
-        for i in word:
-            if i not in freq:
-                freq[i]=1
-            else:
-                freq[i]+=1
-        sorted_freq = dict(sorted(freq.items(), key=lambda item: item[1], reverse=True))
-        k = 1
-        c = 0
-        for i in sorted_freq:
-            count = count + sorted_freq[i]*k
-            c+=1
-            if c%8==0:
-                k+=1
-        
-        return count
-
+        counts = Counter(word).values()
+        sorted_counts = sorted(counts, reverse=True)
+        total_pushes = 0
+        for i, freq in enumerate(sorted_counts):
+            total_pushes += freq * (i // 8 + 1)
+            
+        return total_pushes
 
         
