@@ -8,7 +8,6 @@ class Solution:
             else:
                 freq[i]+=1
         sorted_freq = dict(sorted(freq.items(), key=lambda item: item[1], reverse=True))
-        print(sorted_freq)
         k = 1
         c = 0
         for i in sorted_freq:
