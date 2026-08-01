@@ -49,6 +49,7 @@
 | [0056-merge-intervals](https://github.com/Adhiraj2601/Leet_coding/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Adhiraj2601/Leet_coding/tree/master/0704-binary-search) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
@@ -155,6 +157,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
@@ -238,6 +241,7 @@
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -253,6 +257,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
