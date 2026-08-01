@@ -93,6 +93,7 @@
 | [3637-trionic-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhiraj2601/Leet_coding/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
 | [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -318,6 +322,7 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 ## Sweep Line
 |  |
 | ------- |
