@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
@@ -51,6 +52,7 @@
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Adhiraj2601/Leet_coding/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhiraj2601/Leet_coding/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
+| [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adhiraj2601/Leet_coding/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhiraj2601/Leet_coding/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -315,4 +318,12 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
