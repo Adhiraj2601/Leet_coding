@@ -113,6 +113,7 @@
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhiraj2601/Leet_coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adhiraj2601/Leet_coding/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -142,6 +143,7 @@
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhiraj2601/Leet_coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhiraj2601/Leet_coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -336,6 +338,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhiraj2601/Leet_coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adhiraj2601/Leet_coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3634-minimum-removals-to-balance-array) |
 ## Doubly-Linked List
