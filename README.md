@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
@@ -105,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
