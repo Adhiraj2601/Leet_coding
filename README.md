@@ -54,6 +54,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Adhiraj2601/Leet_coding/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhiraj2601/Leet_coding/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adhiraj2601/Leet_coding/tree/master/0035-search-insert-position) |
+| [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Adhiraj2601/Leet_coding/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhiraj2601/Leet_coding/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1382-balance-a-binary-search-tree) |
@@ -195,6 +198,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -328,6 +332,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
@@ -338,6 +343,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 | [3454-separate-squares-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3721-longest-balanced-subarray-ii) |
@@ -362,4 +368,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
