@@ -46,6 +46,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhiraj2601/Leet_coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/Adhiraj2601/Leet_coding/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhiraj2601/Leet_coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Adhiraj2601/Leet_coding/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Adhiraj2601/Leet_coding/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
