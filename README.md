@@ -304,11 +304,13 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/Adhiraj2601/Leet_coding/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Adhiraj2601/Leet_coding/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3310-remove-methods-from-project](https://github.com/Adhiraj2601/Leet_coding/tree/master/3310-remove-methods-from-project) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adhiraj2601/Leet_coding/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
