@@ -32,6 +32,7 @@
 | [0015-3sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adhiraj2601/Leet_coding/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Adhiraj2601/Leet_coding/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -58,6 +59,7 @@
 | [0035-search-insert-position](https://github.com/Adhiraj2601/Leet_coding/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Adhiraj2601/Leet_coding/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -182,6 +184,7 @@
 | [0015-3sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adhiraj2601/Leet_coding/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
@@ -429,4 +432,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
