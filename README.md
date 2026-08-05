@@ -55,6 +55,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adhiraj2601/Leet_coding/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adhiraj2601/Leet_coding/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Adhiraj2601/Leet_coding/tree/master/0056-merge-intervals) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adhiraj2601/Leet_coding/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
