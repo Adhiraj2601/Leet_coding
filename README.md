@@ -148,6 +148,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/Adhiraj2601/Leet_coding/tree/master/0071-simplify-path) |
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhiraj2601/Leet_coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -248,6 +249,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Adhiraj2601/Leet_coding/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhiraj2601/Leet_coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
