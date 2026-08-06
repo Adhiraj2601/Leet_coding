@@ -159,6 +159,7 @@
 | [0038-count-and-say](https://github.com/Adhiraj2601/Leet_coding/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Adhiraj2601/Leet_coding/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Adhiraj2601/Leet_coding/tree/master/0125-valid-palindrome) |
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
 | [0696-count-binary-substrings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -197,6 +198,7 @@
 | [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Adhiraj2601/Leet_coding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
