@@ -22,6 +22,7 @@
 | [1925-count-square-sum-triples](https://github.com/Adhiraj2601/Leet_coding/tree/master/1925-count-square-sum-triples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adhiraj2601/Leet_coding/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhiraj2601/Leet_coding/tree/master/3536-maximum-product-of-two-digits) |
@@ -280,6 +281,7 @@
 | [1925-count-square-sum-triples](https://github.com/Adhiraj2601/Leet_coding/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adhiraj2601/Leet_coding/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
