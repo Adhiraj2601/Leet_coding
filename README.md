@@ -69,6 +69,7 @@
 | [0035-search-insert-position](https://github.com/Adhiraj2601/Leet_coding/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Adhiraj2601/Leet_coding/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -296,6 +297,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
