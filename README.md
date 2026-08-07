@@ -13,6 +13,7 @@
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhiraj2601/Leet_coding/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
@@ -405,6 +406,7 @@
 | [0190-reverse-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Adhiraj2601/Leet_coding/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhiraj2601/Leet_coding/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Segment Tree
@@ -481,4 +483,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhiraj2601/Leet_coding/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
