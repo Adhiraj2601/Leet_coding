@@ -1,33 +1,28 @@
 class Solution:
-
     def divide(self, dividend: int, divisor: int) -> int:
-        INT_MAX = 2**31 - 1
-        INT_MIN = -2**31
+        
+        _sign = True
+        
+        if divisor < 0 and dividend > 0:
+            _sign = False
+        if dividend < 0 and divisor > 0:
+            _sign = False
 
-        if dividend == divisor:
-            return 1
+        dividend = abs(dividend)
+        divisor = abs(divisor)
+        i = 0
+        q = 0
+        while dividend >= divisor:
+            
+            if dividend < divisor<<i:
+                i = 0
 
-        is_positive = (dividend < 0) == (divisor < 0)
+            dividend -= divisor<<i
+            q += 1<<i
+            i += 1
+            
 
-        a = abs(dividend)
-        b = abs(divisor)
-        ans = 0
-
-        while a >= b:
-            q = 0
-            while a >= (b << (q + 1)):
-                q += 1
-
-            ans += 1 << q
-            a -= b << q
-
-        res = ans if is_positive else -ans
-
-        if res > INT_MAX:
-            return INT_MAX
-        if res < INT_MIN:
-            return INT_MIN
-
-        return res
-
+        if not _sign:
+            return max(-q, pow(-2, 31))
+        return min(q, pow(2, 31)-1)
         
