@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0070-climbing-stairs) |
@@ -422,6 +423,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Adhiraj2601/Leet_coding/tree/master/0401-binary-watch) |
