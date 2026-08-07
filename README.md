@@ -43,6 +43,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -87,6 +88,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Adhiraj2601/Leet_coding/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhiraj2601/Leet_coding/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -413,6 +416,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhiraj2601/Leet_coding/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Adhiraj2601/Leet_coding/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhiraj2601/Leet_coding/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
