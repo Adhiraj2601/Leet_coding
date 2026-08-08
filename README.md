@@ -88,6 +88,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhiraj2601/Leet_coding/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/0877-stone-game) |
+| [0885-spiral-matrix-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -301,6 +302,7 @@
 | [0054-spiral-matrix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
+| [0885-spiral-matrix-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0885-spiral-matrix-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -340,6 +342,7 @@
 | [0054-spiral-matrix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
+| [0885-spiral-matrix-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0885-spiral-matrix-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
