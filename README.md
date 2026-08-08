@@ -191,6 +191,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -228,6 +229,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhiraj2601/Leet_coding/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhiraj2601/Leet_coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3640-trionic-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhiraj2601/Leet_coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
@@ -398,6 +401,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
