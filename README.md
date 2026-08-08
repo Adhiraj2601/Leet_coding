@@ -80,6 +80,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Adhiraj2601/Leet_coding/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,6 +159,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Adhiraj2601/Leet_coding/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
