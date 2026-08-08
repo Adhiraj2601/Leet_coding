@@ -108,6 +108,7 @@
 | [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adhiraj2601/Leet_coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adhiraj2601/Leet_coding/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adhiraj2601/Leet_coding/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -280,6 +281,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
+| [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Geometry
@@ -307,6 +309,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
+| [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
 | [3379-transformed-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -346,6 +349,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
+| [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhiraj2601/Leet_coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
