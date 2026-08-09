@@ -56,6 +56,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adhiraj2601/Leet_coding/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Adhiraj2601/Leet_coding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhiraj2601/Leet_coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3634-minimum-removals-to-balance-array) |
@@ -120,6 +121,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adhiraj2601/Leet_coding/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Adhiraj2601/Leet_coding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3379-transformed-array) |
@@ -416,6 +418,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Adhiraj2601/Leet_coding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
