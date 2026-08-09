@@ -188,6 +188,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhiraj2601/Leet_coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhiraj2601/Leet_coding/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhiraj2601/Leet_coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
@@ -313,6 +314,7 @@
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [0885-spiral-matrix-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0885-spiral-matrix-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
@@ -482,6 +484,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
