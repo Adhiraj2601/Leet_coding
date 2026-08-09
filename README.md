@@ -44,6 +44,7 @@
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
+| [0761-special-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -182,6 +183,7 @@
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
 | [0696-count-binary-substrings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0761-special-binary-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhiraj2601/Leet_coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhiraj2601/Leet_coding/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -248,6 +250,7 @@
 | [0190-reverse-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1382-balance-a-binary-search-tree) |
