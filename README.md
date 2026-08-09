@@ -18,6 +18,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhiraj2601/Leet_coding/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
+| [1140-stone-game-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Adhiraj2601/Leet_coding/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adhiraj2601/Leet_coding/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -95,6 +96,7 @@
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0932-beautiful-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1140-stone-game-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Adhiraj2601/Leet_coding/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adhiraj2601/Leet_coding/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
@@ -356,6 +359,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Adhiraj2601/Leet_coding/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/1140-stone-game-ii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adhiraj2601/Leet_coding/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhiraj2601/Leet_coding/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhiraj2601/Leet_coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -512,6 +516,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/1140-stone-game-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -582,4 +587,12 @@
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
