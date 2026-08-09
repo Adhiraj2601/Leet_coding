@@ -101,6 +101,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhiraj2601/Leet_coding/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adhiraj2601/Leet_coding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/Adhiraj2601/Leet_coding/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1664-ways-to-make-a-fair-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -354,6 +355,7 @@
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [0885-spiral-matrix-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0885-spiral-matrix-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adhiraj2601/Leet_coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adhiraj2601/Leet_coding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/Adhiraj2601/Leet_coding/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
 | [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
@@ -401,6 +403,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adhiraj2601/Leet_coding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/1975-maximum-matrix-sum) |
