@@ -307,6 +307,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
@@ -513,6 +514,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
