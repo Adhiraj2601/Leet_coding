@@ -245,6 +245,7 @@
 | [0061-rotate-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Adhiraj2601/Leet_coding/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adhiraj2601/Leet_coding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
@@ -315,6 +316,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
