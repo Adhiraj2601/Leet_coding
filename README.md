@@ -200,6 +200,7 @@
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Adhiraj2601/Leet_coding/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Adhiraj2601/Leet_coding/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Adhiraj2601/Leet_coding/tree/master/0071-simplify-path) |
@@ -360,6 +361,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Adhiraj2601/Leet_coding/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Adhiraj2601/Leet_coding/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
@@ -392,6 +394,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Adhiraj2601/Leet_coding/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adhiraj2601/Leet_coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -656,4 +659,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Adhiraj2601/Leet_coding/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
