@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Adhiraj2601/Leet_coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adhiraj2601/Leet_coding/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adhiraj2601/Leet_coding/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Adhiraj2601/Leet_coding/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
@@ -537,6 +539,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adhiraj2601/Leet_coding/tree/master/0014-longest-common-prefix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Recursion
 |  |
