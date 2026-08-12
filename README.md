@@ -46,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adhiraj2601/Leet_coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Adhiraj2601/Leet_coding/tree/master/0238-product-of-array-except-self) |
@@ -157,6 +159,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -287,6 +290,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adhiraj2601/Leet_coding/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
@@ -303,6 +307,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhiraj2601/Leet_coding/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -647,4 +652,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
