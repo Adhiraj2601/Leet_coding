@@ -135,6 +135,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adhiraj2601/Leet_coding/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adhiraj2601/Leet_coding/tree/master/3074-apple-redistribution-into-boxes) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3379-transformed-array) |
@@ -170,6 +171,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adhiraj2601/Leet_coding/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -351,6 +353,7 @@
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
 | [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Geometry
