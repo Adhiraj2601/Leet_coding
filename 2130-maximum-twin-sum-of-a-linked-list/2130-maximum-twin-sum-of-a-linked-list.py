@@ -19,6 +19,7 @@ class Solution:
             if s>max:
                 max=s
             curr=curr.next
+        stack=[]
         return max
 
 
