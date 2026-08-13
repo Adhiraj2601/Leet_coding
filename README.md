@@ -355,6 +355,7 @@
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
 | [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -377,6 +378,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhiraj2601/Leet_coding/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
@@ -444,6 +446,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0085-maximal-rectangle) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -574,6 +577,7 @@
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2487-remove-nodes-from-linked-list) |
 ## Game Theory
 |  |
 | ------- |
