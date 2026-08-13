@@ -354,6 +354,7 @@
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Adhiraj2601/Leet_coding/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -391,6 +392,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Adhiraj2601/Leet_coding/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/Adhiraj2601/Leet_coding/tree/master/2211-count-collisions-on-a-road) |
 | [2326-spiral-matrix-iv](https://github.com/Adhiraj2601/Leet_coding/tree/master/2326-spiral-matrix-iv) |
 | [3379-transformed-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3379-transformed-array) |
