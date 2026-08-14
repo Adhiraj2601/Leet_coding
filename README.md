@@ -276,6 +276,7 @@
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Adhiraj2601/Leet_coding/tree/master/0696-count-binary-substrings) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -356,6 +357,7 @@
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
