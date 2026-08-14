@@ -162,6 +162,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhiraj2601/Leet_coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhiraj2601/Leet_coding/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -271,6 +272,7 @@
 | [0141-linked-list-cycle](https://github.com/Adhiraj2601/Leet_coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
@@ -356,6 +358,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0876-middle-of-the-linked-list) |
