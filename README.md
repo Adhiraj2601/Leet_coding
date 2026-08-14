@@ -360,6 +360,7 @@
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
