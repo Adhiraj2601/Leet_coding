@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
+| [0382-linked-list-random-node](https://github.com/Adhiraj2601/Leet_coding/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -362,6 +363,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Adhiraj2601/Leet_coding/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Adhiraj2601/Leet_coding/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -698,4 +700,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Adhiraj2601/Leet_coding/tree/master/0032-longest-valid-parentheses) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Adhiraj2601/Leet_coding/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Adhiraj2601/Leet_coding/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
