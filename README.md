@@ -28,6 +28,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/Adhiraj2601/Leet_coding/tree/master/1925-count-square-sum-triples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
