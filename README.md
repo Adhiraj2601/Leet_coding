@@ -160,6 +160,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Adhiraj2601/Leet_coding/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/Adhiraj2601/Leet_coding/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [3379-transformed-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/Adhiraj2601/Leet_coding/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
 | ------- |
