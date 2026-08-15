@@ -253,6 +253,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adhiraj2601/Leet_coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3453-separate-squares-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhiraj2601/Leet_coding/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
@@ -522,6 +523,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Adhiraj2601/Leet_coding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhiraj2601/Leet_coding/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Combinatorics
 |  |
 | ------- |
@@ -532,6 +534,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3310-remove-methods-from-project](https://github.com/Adhiraj2601/Leet_coding/tree/master/3310-remove-methods-from-project) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhiraj2601/Leet_coding/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adhiraj2601/Leet_coding/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -682,6 +685,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhiraj2601/Leet_coding/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimax
 |  |
@@ -715,4 +719,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Adhiraj2601/Leet_coding/tree/master/0382-linked-list-random-node) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhiraj2601/Leet_coding/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
