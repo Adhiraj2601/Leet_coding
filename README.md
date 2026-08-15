@@ -24,6 +24,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhiraj2601/Leet_coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Adhiraj2601/Leet_coding/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adhiraj2601/Leet_coding/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adhiraj2601/Leet_coding/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/Adhiraj2601/Leet_coding/tree/master/1925-count-square-sum-triples) |
@@ -589,6 +590,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3721-longest-balanced-subarray-ii) |
@@ -671,6 +673,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/1622-fancy-sequence) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
@@ -730,4 +733,12 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhiraj2601/Leet_coding/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/1622-fancy-sequence) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Adhiraj2601/Leet_coding/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
