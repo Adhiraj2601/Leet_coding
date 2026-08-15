@@ -41,6 +41,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3945-digit-frequency-score](https://github.com/Adhiraj2601/Leet_coding/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Adhiraj2601/Leet_coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Adhiraj2601/Leet_coding/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Adhiraj2601/Leet_coding/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
