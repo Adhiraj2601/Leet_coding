@@ -363,6 +363,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Adhiraj2601/Leet_coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0086-partition-list) |
@@ -614,6 +615,7 @@
 | [0002-add-two-numbers](https://github.com/Adhiraj2601/Leet_coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Adhiraj2601/Leet_coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Adhiraj2601/Leet_coding/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
