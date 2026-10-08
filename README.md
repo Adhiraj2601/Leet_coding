@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Adhiraj2601/Leet_coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adhiraj2601/Leet_coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adhiraj2601/Leet_coding/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/Adhiraj2601/Leet_coding/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0445-add-two-numbers-ii) |
@@ -99,6 +100,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adhiraj2601/Leet_coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0169-majority-element](https://github.com/Adhiraj2601/Leet_coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Adhiraj2601/Leet_coding/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Adhiraj2601/Leet_coding/tree/master/0486-predict-the-winner) |
@@ -288,6 +290,7 @@
 | [0143-reorder-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adhiraj2601/Leet_coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Adhiraj2601/Leet_coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Adhiraj2601/Leet_coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adhiraj2601/Leet_coding/tree/master/0234-palindrome-linked-list) |
 | [0481-magical-string](https://github.com/Adhiraj2601/Leet_coding/tree/master/0481-magical-string) |
